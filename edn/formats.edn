@@ -10,7 +10,7 @@
            "ashes"
            "borealis"
            "liberation"]
-  :mwl "standard-ban-list-24-12"}
+  :mwl "standard-ban-list-25-04"}
 
  {:id "throwback"
   :name "Throwback"
@@ -24,7 +24,7 @@
            "ashes"
            "borealis"
            "liberation"]
-  :mwl "throwback-ban-list-24-12"}
+  :mwl "throwback-ban-list-25-04"}
 
  {:id "system-gateway"
   :name "System Gateway"
